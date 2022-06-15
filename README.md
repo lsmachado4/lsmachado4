@@ -47,6 +47,6 @@
 
 
 <div align="center">
-<p>Créditos: <a href="https://github.com/maykbrito">Maik Brito</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+<p><h6>Créditos: <a href="https://github.com/maykbrito">Maik Brito</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
   
