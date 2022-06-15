@@ -1,4 +1,4 @@
-### Heyy! 👋 Eu sou o Lucas Machado
+### Heyy! 👋 Me chamo Lucas Machado
 
 
 
@@ -6,7 +6,7 @@
 - 🌱 Estudando regularmente **NodeJs e ReactJs**
 - 🧠  **JavaScript, CSS3, HTML5**
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Análises do GitHub 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lsmachado4&show_icons=true&theme=vision-friendly-dark" alt="lucasmachado's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsmachado4&layout=compact&theme=vision-friendly-dark" alt="lucasmachado's most languages"/>
@@ -14,7 +14,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Linguagens e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
