@@ -30,7 +30,7 @@
 <br><br>
     
  
-## 👨🏽‍🦲 &nbsp;Se conecte comigo:
+## 👨🏽‍🦲 &nbsp;Se conecte comigo
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/lucassmachadodev/" target="_blank">
