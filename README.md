@@ -37,9 +37,9 @@
 <a href="https://linkedin.com/in/lucassmachadodev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasmachado-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-><a href="https://instagram.com/lucassmachado_/" target="_blank">
-><img align="center" src="https://img.shields.io/badge/-lucasmachado-05122A?style=flat&logo=instagram" alt="instagram"/>
-></a>
+> <a href="https://instagram.com/lucassmachado_/" target="_blank">
+> <img align="center" src="https://img.shields.io/badge/-lucasmachado-05122A?style=flat&logo=instagram" alt="instagram"/>
+> </a>
 
 
 </p>
