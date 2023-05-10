@@ -1,10 +1,11 @@
-### Hey! Me chamo Lucas Machado👋
+### Hey!    
+### Me chamo Lucas Machado 👋
 
 
 
 - 🔥 Desenvolvedor Web
-- 🌱 Estudando regularmente **NodeJs e ReactJs**
-- 🧠  **JavaScript, CSS3, HTML5**
+- 🌱 Estudando **JavaScript**, **CSS3**, **HTML5**
+ 
 
 ## ⚙️ &nbsp;Análises do GitHub 
 <p align="left">
