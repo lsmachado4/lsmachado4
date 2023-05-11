@@ -1,11 +1,14 @@
 ### Hey!    
 ### Me chamo Lucas Machado 👋
 
+🌱 Atualmente, estou focado em me tornar um Desenvolvedor FullStack, aprofundando meu conhecimento nas seguintes tecnologias:  🌱
 
-
-- 🔥 Desenvolvedor Web
-- 🌱 Estudando **JavaScript**, **CSS3**, **HTML5**
- 
+- **Html**
+- **Css**
+- **JavaScript** 
+- **ReactJs**
+- **MySQL**
+- **NodeJS**  
 
 ## ⚙️ &nbsp;Análises do GitHub 
 <p align="left">
