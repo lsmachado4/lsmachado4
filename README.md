@@ -7,7 +7,6 @@
 - **Css**
 - **JavaScript** 
 - **ReactJs**
-- **MySQL**
 - **NodeJS**  
 
 ## ⚙️ &nbsp;Análises do GitHub 
