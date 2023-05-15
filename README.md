@@ -3,6 +3,7 @@
 
 🌱 Atualmente, estou focado em me tornar um Desenvolvedor FullStack, aprofundando meu conhecimento nas seguintes tecnologias:  🌱
 
+- **Git**
 - **Html**
 - **Css**
 - **JavaScript** 
