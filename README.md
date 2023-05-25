@@ -8,7 +8,6 @@
 - **Css**
 - **JavaScript** 
 - **MySQL**
-- **ReactJs**
 - **NodeJS**  
 
 ## ⚙️ &nbsp;Análises do GitHub 
@@ -26,7 +25,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=BootStrap&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
